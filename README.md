@@ -1,10 +1,15 @@
 ## Natural Language Processing Tutorial
 #### Julia Burek, Julia Deaver, Madeleine Jones, Chelsea Le Sage
 
-This tutorial is intended to introduce students to natural language processing (NLP) concepts and to provide hands-on experience with a robust data set in R. Students will perform exploratory text analysis on wine review data (found on <a href="https://www.kaggle.com/datasets/zynicide/wine-reviews?datasetId=1442&language=R">Kaggle</a>) and ultimately perform sentiment analysis. 
+This tutorial is intended to introduce students to natural language processing (NLP) concepts and to provide hands-on experience with a robust data set in R. Students will perform exploratory text analysis on wine review data (found on <a href="https://www.kaggle.com/datasets/zynicide/wine-reviews?datasetId=1442&language=R">Kaggle</a>) and ultimately perform the following machine learning techniques:
+<ul>
+  <li>Sentiment Analysis</li>
+  <li>Term Frequency - Inverse Document Frequency Analysis</li>
+  <li>K Means Clustering</li>
+</ul>
 
 #### Natural Language Processing
-Natural language processing is the field of interaction between computers and human language. Useful R libraries for NLP include:
+Natural language processing is the field of interaction between computers and language. It is the process of teaching computers how to understand text, in the same ways that humans are able to. Useful R libraries for NLP include:
 <ul>
   <li><a href="https://cran.r-project.org/web/packages/wordcloud/wordcloud.pdf">wordcloud</a>: visualize the similarities and differences between text documents</li>
   <li><a href="https://stringi.gagolewski.com">stringi</a>: fast text processing such as concatenation, searching, and normalization</li>
