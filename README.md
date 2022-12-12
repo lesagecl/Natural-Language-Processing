@@ -6,11 +6,11 @@ This tutorial is intended to introduce students to natural language processing (
 #### Natural Language Processing
 Natural language processing is the field of interaction between computers and human language. Useful R libraries for NLP include:
 <ul>
-  <li><a href="https://cran.r-project.org/web/packages/wordcloud/wordcloud.pdf">wordcloud</a> visualizes the similarities and differences between text documents</li>
-  <li><a href="https://stringi.gagolewski.com">stringi</a> allows for fast text processing such as concatenation, searching, and normalization</li>
-  <li><a href="https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html">tidytext</a> provides the infrastructure for text mining</li>
-  <li><a href="https://cran.r-project.org/web/packages/textdata/index.html">textdata</a>'s framework to parse through and store data</li>
-  <li><a href="https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html">stringr</a> adds string functions for text manipulation and pattern matching</li>
+  <li><a href="https://cran.r-project.org/web/packages/wordcloud/wordcloud.pdf">wordcloud</a>: visualize the similarities and differences between text documents</li>
+  <li><a href="https://stringi.gagolewski.com">stringi</a>: fast text processing such as concatenation, searching, and normalization</li>
+  <li><a href="https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html">tidytext</a>: infrastructure for text mining</li>
+  <li><a href="https://cran.r-project.org/web/packages/textdata/index.html">textdata</a>: framework to parse through and store data</li>
+  <li><a href="https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html">stringr</a>: add string functions for text manipulation and pattern matching</li>
 </ul>
 
 ##### Exploratory Text Analysis
