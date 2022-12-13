@@ -19,7 +19,7 @@ Natural language processing is the field of interaction between computers and la
 </ul>
 
 ##### Exploratory Text Analysis (ETA)
-Performing ETA is a crucial first step for undertanding the underlying trends or differences among our data. It enables us to check hypotheses and generate key insights in a streamlined way.
+Performing ETA is a crucial first step for understanding the underlying trends or differences among our data. It enables us to check hypotheses and generate key insights in a streamlined way.
 
 ##### Sentiment Analysis
 Sentinment analysis allows us to understand the emotions associated with words. By performing sentiment analysis on products, companies can often get insight to how a customer may respond to their product. 
