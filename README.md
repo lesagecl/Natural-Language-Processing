@@ -26,3 +26,5 @@ Sentinment analysis allows us to understand the emotions associated with words. 
 
 #### Dataset
 The tutorial will be conducted with the `winemag-data-130k-v2.csv` data file. The `description` column provides tasting notes and flavor profiles for each wine. This is our column of interest for language processing. 
+
+Estimated time to complete tutorial: 60 minutes
