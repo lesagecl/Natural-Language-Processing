@@ -18,9 +18,11 @@ Natural language processing is the field of interaction between computers and la
   <li><a href="https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html">stringr</a>: add string functions for text manipulation and pattern matching</li>
 </ul>
 
-##### Exploratory Text Analysis
+##### Exploratory Text Analysis (ETA)
+Performing ETA is a crucial first step for undertanding the underlying trends or differences among our data. It allows us to generate and check hypotheses and generate key insights in a streamlined way.
 
 ##### Sentiment Analysis
+Sentinment analysis allows us to understand the emotions associated with words. By performing sentiment analysis on products, companies can often get insight to how a customer may respond to their product. 
 
 #### Dataset
 The tutorial will be conducted with the `winemag-data-130k-v2.csv` data file. The `description` column provides tasting notes and flavor profiles for each wine. This is our column of interest for language processing. 
